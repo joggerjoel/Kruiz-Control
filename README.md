@@ -1,6 +1,10 @@
-# Kruiz Control
+# Kruiz Control /w sound pack
 
 <p align="center"><i>
+This is a clone from Kruizer 8 including the configuration and sounds for 200 onomatopoeia. <br>
+Sounds are from: https://freesound.org<br>
+-joggerjoel<br>
+<p>
 Kruiz Control enables a pseudo code approach to manage and automatically handle Twitch Channel Points, Twitch Chat, OBS or SLOBS, and StreamElements or Streamlabs alerts.
 </i></p>
 <p align="center"><b>
